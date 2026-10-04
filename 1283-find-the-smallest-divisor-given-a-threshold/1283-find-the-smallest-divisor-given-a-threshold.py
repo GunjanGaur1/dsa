@@ -6,8 +6,8 @@ class Solution:
         while low <=high:
             mid = (low+high)//2
             ssum = 0
-            for num in nums:
-                ssum = ssum + ceil(num/mid)
+            for i in range(len(nums)):
+                ssum = ssum + ceil(nums[i]/mid)
             if ssum > threshold:
                 low = mid + 1
             else:
