@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
