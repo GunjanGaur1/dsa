@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/GunjanGaur1/dsa/tree/master/0735-asteroid-collision) |
+| [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -111,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
