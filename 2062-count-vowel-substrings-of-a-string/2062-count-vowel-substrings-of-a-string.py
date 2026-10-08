@@ -3,16 +3,17 @@ class Solution:
         n = len(word)
         vowels = "aeiou"
         count = 0
-
         for i in range(n):
-            seen = set() ## why add here seen
+            seen = set()
             for j in range(i,n):
                 if word[j] not in vowels:
                     break
                 seen.add(word[j])
                 print(seen)
                 if len(seen)==5:
+                    print("at i:=",i)
+                    print("at j:=",j)
+                    print(seen)
                     count = count + 1
-
-        return count
-
+                    print("count:=",count)
+        return count 
