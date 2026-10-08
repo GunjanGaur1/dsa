@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GunjanGaur1/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/GunjanGaur1/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/GunjanGaur1/dsa/tree/master/0239-sliding-window-maximum) |
 | [0286-walls-and-gates](https://github.com/GunjanGaur1/dsa/tree/master/0286-walls-and-gates) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GunjanGaur1/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GunjanGaur1/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/GunjanGaur1/dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GunjanGaur1/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 ## Matrix
