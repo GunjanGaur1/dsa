@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GunjanGaur1/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
 ## Prefix Sum
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/GunjanGaur1/dsa/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GunjanGaur1/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/GunjanGaur1/dsa/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GunjanGaur1/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/GunjanGaur1/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/GunjanGaur1/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GunjanGaur1/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
