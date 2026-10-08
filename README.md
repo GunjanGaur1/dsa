@@ -140,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
+## Math
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/GunjanGaur1/dsa/tree/master/0779-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/GunjanGaur1/dsa/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/GunjanGaur1/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
