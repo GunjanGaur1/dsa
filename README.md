@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/GunjanGaur1/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/GunjanGaur1/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/GunjanGaur1/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
 | ------- |
