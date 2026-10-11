@@ -6,7 +6,7 @@ class Solution:
         while k>1:
             if k %2 ==0:
                 ans = 1 - ans 
-            k = (k + 1)// 2
+            k = (k+1 )// 2
         return ans
 
 
