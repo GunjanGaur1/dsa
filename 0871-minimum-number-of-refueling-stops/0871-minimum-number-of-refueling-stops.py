@@ -8,8 +8,8 @@ class Solution:
         positions = 0
 
         for position,capacity in stations:
-            fuel = fuel - (position - positions)
-            positions = position
+            fuel = fuel - (position - positions) ##fuel left
+            positions = position ## updated new position
             while fuel<0:
                 if not heap:
                     return -1 
