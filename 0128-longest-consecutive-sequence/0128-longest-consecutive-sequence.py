@@ -15,8 +15,8 @@ class Solution:
             if num-1 not in hash:
                 count = 1
                 current = num
-                while current+1 in hash:
+                while current + 1 in hash:
+                    current = current+1
                     count = count + 1
-                    current = current + 1
                 max_count = max(max_count,count)
         return max_count
