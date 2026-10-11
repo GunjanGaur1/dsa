@@ -4,7 +4,7 @@ class Solution:
         max_profit = 0
         min_price = float('inf')
         for i in range(n):
-            min_price = min(min_price, prices[i])
-            profit = prices[i]-min_price
+            min_price = min(min_price, prices[i]) # tracks minimum 7
+            profit = prices[i]-min_price # 
             max_profit = max(max_profit,profit)
         return max_profit
