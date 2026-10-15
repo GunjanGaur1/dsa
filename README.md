@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/GunjanGaur1/dsa/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/GunjanGaur1/dsa/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GunjanGaur1/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/GunjanGaur1/dsa/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/GunjanGaur1/dsa/tree/master/0696-count-binary-substrings) |
+| [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Counting
 |  |
