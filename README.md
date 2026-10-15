@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanGaur1/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/GunjanGaur1/dsa/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0239-sliding-window-maximum](https://github.com/GunjanGaur1/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/GunjanGaur1/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0487-max-consecutive-ones-ii](https://github.com/GunjanGaur1/dsa/tree/master/0487-max-consecutive-ones-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GunjanGaur1/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanGaur1/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/GunjanGaur1/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/GunjanGaur1/dsa/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/GunjanGaur1/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GunjanGaur1/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanGaur1/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/GunjanGaur1/dsa/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/GunjanGaur1/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/GunjanGaur1/dsa/tree/master/0567-permutation-in-string) |
