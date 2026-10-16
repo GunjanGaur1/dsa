@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GunjanGaur1/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
+| [1762-buildings-with-an-ocean-view](https://github.com/GunjanGaur1/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/GunjanGaur1/dsa/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GunjanGaur1/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1762-buildings-with-an-ocean-view](https://github.com/GunjanGaur1/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1762-buildings-with-an-ocean-view](https://github.com/GunjanGaur1/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
