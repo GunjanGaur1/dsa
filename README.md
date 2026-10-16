@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/GunjanGaur1/dsa/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/GunjanGaur1/dsa/tree/master/0487-max-consecutive-ones-ii) |
+| [0525-contiguous-array](https://github.com/GunjanGaur1/dsa/tree/master/0525-contiguous-array) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/GunjanGaur1/dsa/tree/master/0735-asteroid-collision) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/GunjanGaur1/dsa/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/GunjanGaur1/dsa/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/GunjanGaur1/dsa/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GunjanGaur1/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/GunjanGaur1/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/GunjanGaur1/dsa/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/GunjanGaur1/dsa/tree/master/0567-permutation-in-string) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
