@@ -7,5 +7,4 @@ class Solution:
                 hash[nums[i]] = 1
             else:
                 hash[nums[i]] = hash[nums[i]] + 1
-            
-        return max(hash,key=hash.get)
+        return max(hash, key=hash.get)
