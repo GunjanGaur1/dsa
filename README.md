@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-buildings-with-an-ocean-view](https://github.com/GunjanGaur1/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GunjanGaur1/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/GunjanGaur1/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GunjanGaur1/dsa/tree/master/0169-majority-element) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
+| [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
 ## Simulation
 |  |
 | ------- |
