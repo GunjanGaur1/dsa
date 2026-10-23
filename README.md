@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GunjanGaur1/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GunjanGaur1/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/GunjanGaur1/dsa/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/GunjanGaur1/dsa/tree/master/0696-count-binary-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
+| [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
+| [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Counting
 |  |
