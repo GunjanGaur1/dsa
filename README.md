@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GunjanGaur1/dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/GunjanGaur1/dsa/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/GunjanGaur1/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/GunjanGaur1/dsa/tree/master/0239-sliding-window-maximum) |
 | [0286-walls-and-gates](https://github.com/GunjanGaur1/dsa/tree/master/0286-walls-and-gates) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/GunjanGaur1/dsa/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/GunjanGaur1/dsa/tree/master/0238-product-of-array-except-self) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/GunjanGaur1/dsa/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/GunjanGaur1/dsa/tree/master/0525-contiguous-array) |
