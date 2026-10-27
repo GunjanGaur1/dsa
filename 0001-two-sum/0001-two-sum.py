@@ -1,9 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
         hash = {}
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if complement in hash:
-                return [hash[complement], i]
+        n = len(nums)
+        for i in range(n):
+            compliment = target - nums[i]
+            if compliment in hash:
+                return hash[compliment],i
             hash[nums[i]] = i
-            # 2 : 1
