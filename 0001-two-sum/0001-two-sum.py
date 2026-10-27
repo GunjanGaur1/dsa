@@ -6,3 +6,4 @@ class Solution(object):
             if complement in hash:
                 return [hash[complement], i]
             hash[nums[i]] = i
+            # 2 : 1
