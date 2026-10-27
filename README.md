@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/GunjanGaur1/dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GunjanGaur1/dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GunjanGaur1/dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Counting
 |  |
 | ------- |
