@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/GunjanGaur1/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GunjanGaur1/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/GunjanGaur1/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GunjanGaur1/dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/GunjanGaur1/dsa/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GunjanGaur1/dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/GunjanGaur1/dsa/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/GunjanGaur1/dsa/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/GunjanGaur1/dsa/tree/master/0696-count-binary-substrings) |
