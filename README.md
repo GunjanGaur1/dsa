@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/GunjanGaur1/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GunjanGaur1/dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2235-add-two-integers](https://github.com/GunjanGaur1/dsa/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
