@@ -1,16 +1,20 @@
 class Solution:
     def maxProduct(self, nums: list[int]) -> int:
-        maxi = nums[0]
-        mini = nums[0]
-        ans = nums[0]
+        n = len(nums)
+        prefix = 1
+        suffix = 1
+        ans = float('-inf')
 
-        for i in range(1, len(nums)):
-            if nums[i] < 0:
-                maxi, mini = mini, maxi
+        for i in range(n):
+            if prefix==0:
+                prefix=1
+            if suffix==0:
+                suffix=1
 
-            maxi = max(nums[i], maxi * nums[i])
-            mini = min(nums[i], mini * nums[i])
+            prefix = prefix*nums[i]
+            suffix = suffix * nums[n-1-i]
 
-            ans = max(ans, maxi)
+            ans = max(ans, prefix, suffix)
 
         return ans
+        
