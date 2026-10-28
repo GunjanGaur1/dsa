@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GunjanGaur1/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GunjanGaur1/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/GunjanGaur1/dsa/tree/master/0239-sliding-window-maximum) |
+| [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GunjanGaur1/dsa/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/GunjanGaur1/dsa/tree/master/0286-walls-and-gates) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GunjanGaur1/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/GunjanGaur1/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GunjanGaur1/dsa/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/GunjanGaur1/dsa/tree/master/0567-permutation-in-string) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GunjanGaur1/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GunjanGaur1/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
+| [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GunjanGaur1/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
