@@ -6,12 +6,14 @@ class Solution:
 
         def dfs(node):
             visited[node]=True
+
             for neighbor in range(n):
-                if isConnected[node][neighbor]==1 and not visited[neighbor]:
+                if visited[neighbor]==False and isConnected[node][neighbor]==1:
                     dfs(neighbor)
+
 
         for i in range(n):
             if not visited[i]:
-                provinces = provinces + 1
+                provinces=provinces+1
                 dfs(i)
         return provinces
