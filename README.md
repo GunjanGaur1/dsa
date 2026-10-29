@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GunjanGaur1/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GunjanGaur1/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GunjanGaur1/dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Counting
 |  |
 | ------- |
