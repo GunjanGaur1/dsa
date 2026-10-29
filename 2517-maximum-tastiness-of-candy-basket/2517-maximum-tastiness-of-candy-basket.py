@@ -9,6 +9,7 @@ class Solution:
         while low<=high:
             mid=(low+high)//2
             prev=price[0]
+            #prev=1
             count = 1
             for i in range(n):
                 if price[i]-prev>=mid:
