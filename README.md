@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GunjanGaur1/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GunjanGaur1/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2938-separate-black-and-white-balls](https://github.com/GunjanGaur1/dsa/tree/master/2938-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GunjanGaur1/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/GunjanGaur1/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GunjanGaur1/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GunjanGaur1/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
 | [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GunjanGaur1/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Simulation
 |  |
 | ------- |
