@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2938-separate-black-and-white-balls](https://github.com/GunjanGaur1/dsa/tree/master/2938-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GunjanGaur1/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2938-separate-black-and-white-balls](https://github.com/GunjanGaur1/dsa/tree/master/2938-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GunjanGaur1/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GunjanGaur1/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/GunjanGaur1/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/GunjanGaur1/dsa/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
