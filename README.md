@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GunjanGaur1/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3641-longest-semi-repeating-subarray](https://github.com/GunjanGaur1/dsa/tree/master/3641-longest-semi-repeating-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GunjanGaur1/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3641-longest-semi-repeating-subarray](https://github.com/GunjanGaur1/dsa/tree/master/3641-longest-semi-repeating-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/GunjanGaur1/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GunjanGaur1/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3641-longest-semi-repeating-subarray](https://github.com/GunjanGaur1/dsa/tree/master/3641-longest-semi-repeating-subarray) |
 ## String
 |  |
 | ------- |
