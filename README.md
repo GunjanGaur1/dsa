@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/GunjanGaur1/dsa/tree/master/1046-last-stone-weight) |
 | [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GunjanGaur1/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GunjanGaur1/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GunjanGaur1/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/GunjanGaur1/dsa/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1046-last-stone-weight](https://github.com/GunjanGaur1/dsa/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/GunjanGaur1/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GunjanGaur1/dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Hash Table
