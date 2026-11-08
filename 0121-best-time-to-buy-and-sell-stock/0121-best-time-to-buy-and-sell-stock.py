@@ -3,11 +3,8 @@ class Solution:
         mini = float('inf')
         maxiprofit = 0
         n = len(prices)
-
         for i in range(n):
             mini = min(prices[i],mini)
-
             profit = prices[i]-mini
-            maxiprofit=max(maxiprofit,profit)
-
+            maxiprofit = max(maxiprofit,profit)
         return maxiprofit
