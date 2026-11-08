@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GunjanGaur1/dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/GunjanGaur1/dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/GunjanGaur1/dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GunjanGaur1/dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GunjanGaur1/dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GunjanGaur1/dsa/tree/master/0018-4sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanGaur1/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/GunjanGaur1/dsa/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/GunjanGaur1/dsa/tree/master/0058-length-of-last-word) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/GunjanGaur1/dsa/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GunjanGaur1/dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
