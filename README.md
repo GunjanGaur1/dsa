@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/GunjanGaur1/dsa/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/GunjanGaur1/dsa/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GunjanGaur1/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/GunjanGaur1/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GunjanGaur1/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GunjanGaur1/dsa/tree/master/0779-k-th-symbol-in-grammar) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/GunjanGaur1/dsa/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
