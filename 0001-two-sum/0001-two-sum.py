@@ -1,9 +1,7 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        hash = {}
         n = len(nums)
         for i in range(n):
-            compliment = target - nums[i]
-            if compliment in hash:
-                return hash[compliment],i
-            hash[nums[i]] = i
+            for j in range(i+1,n):
+                if nums[i]+nums[j]==target:
+                    return [i,j]
