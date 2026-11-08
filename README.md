@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GunjanGaur1/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
 | [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/GunjanGaur1/dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GunjanGaur1/dsa/tree/master/0344-reverse-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/GunjanGaur1/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/GunjanGaur1/dsa/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/GunjanGaur1/dsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GunjanGaur1/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GunjanGaur1/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GunjanGaur1/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GunjanGaur1/dsa/tree/master/0779-k-th-symbol-in-grammar) |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1062-longest-repeating-substring](https://github.com/GunjanGaur1/dsa/tree/master/1062-longest-repeating-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
