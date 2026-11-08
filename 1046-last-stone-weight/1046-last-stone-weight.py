@@ -5,9 +5,8 @@ class Solution:
         for i in range(n):
             heapq.heappush(heap,-stones[i])
         while len(heap)>1:
-            first = -heapq.heappop(heap)
-            second = -heapq.heappop(heap)
-
-            x = first - second 
-            heapq.heappush(heap,-x)
+            x=-heapq.heappop(heap)
+            y=-heapq.heappop(heap)
+            diff = x-y
+            heapq.heappush(heap,-diff)
         return -heap[0] if heap else 0
