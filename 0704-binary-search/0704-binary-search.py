@@ -12,4 +12,4 @@ class Solution:
                 low=mid+1
             else:
                 return mid
-        return ans
+        return -1
