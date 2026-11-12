@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GunjanGaur1/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/GunjanGaur1/dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/GunjanGaur1/dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GunjanGaur1/dsa/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/GunjanGaur1/dsa/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
