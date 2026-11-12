@@ -4,7 +4,6 @@ class Solution:
         #n=6 elements 
         low = 0
         high = n-1
-        #high=
         while low<=high:
             mid=(low+high)//2
             if nums[mid]==target:
