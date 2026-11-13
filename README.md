@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
+| [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
+| [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
