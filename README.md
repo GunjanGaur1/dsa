@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/GunjanGaur1/dsa/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GunjanGaur1/dsa/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/GunjanGaur1/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/GunjanGaur1/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [1062-longest-repeating-substring](https://github.com/GunjanGaur1/dsa/tree/master/1062-longest-repeating-substring) |
 ## Bidirectional Search
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/GunjanGaur1/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/GunjanGaur1/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -505,10 +508,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/GunjanGaur1/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/GunjanGaur1/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/GunjanGaur1/dsa/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
