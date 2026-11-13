@@ -13,8 +13,8 @@ class Solution:
 
         left = self.isSameTree(p.left,q.left)
         right = self.isSameTree(p.right,q.right)
-        
-        if p.val != q.val:
+
+        if p.val!=q.val:
             return False
         
         return left and right
