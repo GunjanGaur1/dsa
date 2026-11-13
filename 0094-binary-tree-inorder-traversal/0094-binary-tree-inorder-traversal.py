@@ -9,10 +9,10 @@ class Solution:
         result = []
         def inorder(root):
             if root is None:
-                return 
+                return
             inorder(root.left)
             result.append(root.val)
             inorder(root.right)
-
         inorder(root)
         return result
+            
