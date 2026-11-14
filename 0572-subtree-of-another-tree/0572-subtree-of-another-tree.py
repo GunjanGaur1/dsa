@@ -8,28 +8,26 @@ class Solution:
     def isSubtree(self, root: TreeNode | None, subRoot: TreeNode | None) -> bool:
         if root is None:
             return False
-        if root.val!=subRoot.val:
-            left = self.isSubtree(root.left,subRoot)
-            right = self.isSubtree(root.right,subRoot)
+
+        if self.isSameTree(root, subRoot):
+            return True
+
+        left = self.isSubtree(root.left, subRoot)
+        right = self.isSubtree(root.right, subRoot)
         
-        else:
-            if self.isSame(root, subRoot):
-                return True
-            else:
-                left = self.isSubtree(root.left, subRoot)
-                right = self.isSubtree(root.right, subRoot)
         return left or right
 
-
-    def isSame(self, p, q):
+    def isSameTree(self, p: TreeNode | None, q: TreeNode | None) -> bool:
+        
         if p is None and q is None:
             return True
         if p is None or q is None:
             return False
+
         if p.val != q.val:
             return False
-        left = self.isSame(p.left, q.left)
-        right = self.isSame(p.right, q.right)
+
+        left = self.isSameTree(p.left,q.left)
+        right = self.isSameTree(p.right,q.right)
         
         return left and right
-
