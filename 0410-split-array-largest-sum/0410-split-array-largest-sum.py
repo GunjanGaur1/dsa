@@ -2,24 +2,21 @@ class Solution:
     def splitArray(self, nums: list[int], k: int) -> int:
         low = max(nums)
         high = sum(nums)
-        
-        n = len(nums)
-        # 2 5 7 8 10
+
         while low<=high:
-            mid = (low+high)//2
+            mid=(low+high)//2
             ssum = 0
-            count = 1
-            for i in range(n):
-                if ssum+nums[i]>mid:
-                    count = count+1
-                    ssum = nums[i]
+            count=1
+            n = len(nums)
+            for i in range(n):    
+                if ssum + nums[i]<=mid:
+                    ssum = ssum+nums[i]
                 else:
-                    ssum = ssum + nums[i]
-
+                    count=count+1
+                    ssum = nums[i]
             if count<=k:
-                high = mid - 1
+                high=mid-1
             else:
-                low = mid + 1
-
+                low=mid+1
+            
         return low
-
