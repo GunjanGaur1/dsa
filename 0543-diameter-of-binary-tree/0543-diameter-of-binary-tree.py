@@ -9,8 +9,10 @@ class Solution:
         diameter = 0
         def height(root):
             nonlocal diameter
+
             if root is None:
                 return 0
+            
             left = height(root.left)
             right = height(root.right)
 
@@ -19,4 +21,3 @@ class Solution:
             return 1 + max(left,right)
         height(root)
         return diameter
-
