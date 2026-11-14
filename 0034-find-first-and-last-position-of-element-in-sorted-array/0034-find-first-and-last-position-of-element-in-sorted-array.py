@@ -1,33 +1,37 @@
 class Solution:
     def searchRange(self, nums: list[int], target: int) -> list[int]:
-        n=len(nums)
-        low = 0
-        high = n-1
-        first = -1
-        last = -1
+        n = len(nums)
+        low=0
+        high=n-1
 
         while low<=high:
             mid=(low+high)//2
             if nums[mid]>=target:
-                high = mid-1
+                high=mid-1
             else:
                 low=mid+1
         first = low
+        print(first)
 
-        ## last occurence 
-        n=len(nums)
-        low = 0
-        high = n-1
+        n = len(nums)
+        low=0
+        high=n-1
 
         while low<=high:
             mid=(low+high)//2
-            if nums[mid]<=target:
-                low=mid+1
-            else:
+            if nums[mid]>target:
                 high=mid-1
+            else:
+                low=mid+1
         last = high
+        print(last)
 
         if first<n and nums[first]==target:
             return[first,last]
 
-        return [-1,-1]
+        return[-1,-1]
+
+
+
+
+            
