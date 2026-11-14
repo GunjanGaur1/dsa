@@ -15,5 +15,6 @@ class Solution:
             inorder(root.left)
             result.append(root.val)
             inorder(root.right)
+
         inorder(root)
         return result
