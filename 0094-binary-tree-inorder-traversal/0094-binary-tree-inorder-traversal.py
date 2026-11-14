@@ -10,7 +10,7 @@ class Solution:
 
         def inorder(root):
             if root is None:
-                return []
+                return 
 
             inorder(root.left)
             result.append(root.val)
