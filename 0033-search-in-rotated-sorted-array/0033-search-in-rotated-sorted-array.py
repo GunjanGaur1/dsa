@@ -3,8 +3,7 @@ class Solution:
         n = len(nums)
         low = 0
         high = n-1
-
-        while low<=high:
+        while(low<=high):
             mid=(low+high)//2
             if nums[mid]==target:
                 return mid
@@ -18,6 +17,8 @@ class Solution:
                     low=mid+1
                 else:
                     high=mid-1
-
         return -1
+
+
+
         
