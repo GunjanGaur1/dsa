@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/GunjanGaur1/dsa/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/GunjanGaur1/dsa/tree/master/0487-max-consecutive-ones-ii) |
 | [0525-contiguous-array](https://github.com/GunjanGaur1/dsa/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/GunjanGaur1/dsa/tree/master/0704-binary-search) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/GunjanGaur1/dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/GunjanGaur1/dsa/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GunjanGaur1/dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/GunjanGaur1/dsa/tree/master/0875-koko-eating-bananas) |
