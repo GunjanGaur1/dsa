@@ -1,9 +1,9 @@
 class Solution:
     def searchRange(self, nums: list[int], target: int) -> list[int]:
         n = len(nums)
-        low=0
-        high=n-1
-
+        low = 0
+        high = n-1
+        ans=[]
         while low<=high:
             mid=(low+high)//2
             if nums[mid]>=target:
@@ -11,27 +11,21 @@ class Solution:
             else:
                 low=mid+1
         first = low
-        print(first)
 
         n = len(nums)
-        low=0
-        high=n-1
-
+        low = 0
+        high = n-1
+        ans=[]
         while low<=high:
             mid=(low+high)//2
-            if nums[mid]>target:
-                high=mid-1
-            else:
+            if nums[mid]<=target:
                 low=mid+1
+            else:
+                high=mid-1
         last = high
-        print(last)
 
         if first<n and nums[first]==target:
-            return[first,last]
-
-        return[-1,-1]
-
-
-
-
-            
+            return [first,last]
+        else:
+            return[-1,-1]
+        
