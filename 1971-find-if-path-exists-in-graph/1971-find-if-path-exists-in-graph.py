@@ -17,6 +17,4 @@ class Solution:
                     if dfs(neighbor):
                         return True
             return False
-
         return dfs(source)
-            
