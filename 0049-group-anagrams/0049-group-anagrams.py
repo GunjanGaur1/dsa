@@ -4,10 +4,7 @@ class Solution:
         hash = {}
         for word in strs:
             key = "".join(sorted(word))
-            print(key)
             if key not in hash:
-                hash[key]=[]
+                hash[key] = []
             hash[key].append(word)
-
         return list(hash.values())
-
