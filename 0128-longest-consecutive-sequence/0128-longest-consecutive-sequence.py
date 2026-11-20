@@ -1,12 +1,12 @@
 class Solution:
     def longestConsecutive(self, nums: list[int]) -> int:
         hash = {}
-        for num in nums:
-            if num not in hash:
-                hash[num]=1
+
+        for i in range(len(nums)):
+            if nums[i] not in hash:
+                hash[nums[i]]=1
             else:
-                hash[num]+=1
-        print(hash)
+                hash[nums[i]]+=1
         longest=0
         for current in hash:
             if current-1 not in hash:
@@ -15,5 +15,5 @@ class Solution:
                     current=current+1
                     count=count+1
                 longest = max(longest,count)
+
         return longest
-            
