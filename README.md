@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GunjanGaur1/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GunjanGaur1/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/GunjanGaur1/dsa/tree/master/0410-split-array-largest-sum) |
+| [0419-battleships-in-a-board](https://github.com/GunjanGaur1/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/GunjanGaur1/dsa/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/GunjanGaur1/dsa/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/GunjanGaur1/dsa/tree/master/0487-max-consecutive-ones-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0226-invert-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/GunjanGaur1/dsa/tree/master/0250-count-univalue-subtrees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GunjanGaur1/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0419-battleships-in-a-board](https://github.com/GunjanGaur1/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/GunjanGaur1/dsa/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GunjanGaur1/dsa/tree/master/0547-number-of-provinces) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GunjanGaur1/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/GunjanGaur1/dsa/tree/master/0286-walls-and-gates) |
+| [0419-battleships-in-a-board](https://github.com/GunjanGaur1/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/GunjanGaur1/dsa/tree/master/0463-island-perimeter) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
