@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/GunjanGaur1/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/GunjanGaur1/dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1062-longest-repeating-substring](https://github.com/GunjanGaur1/dsa/tree/master/1062-longest-repeating-substring) |
+| [1137-n-th-tribonacci-number](https://github.com/GunjanGaur1/dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/GunjanGaur1/dsa/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/GunjanGaur1/dsa/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GunjanGaur1/dsa/tree/master/0779-k-th-symbol-in-grammar) |
+| [1137-n-th-tribonacci-number](https://github.com/GunjanGaur1/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/GunjanGaur1/dsa/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
@@ -589,4 +591,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/GunjanGaur1/dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/GunjanGaur1/dsa/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/GunjanGaur1/dsa/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
