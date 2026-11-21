@@ -1,16 +1,20 @@
 class Solution:
     def maxSubArrayLen(self, nums: list[int], k: int) -> int:
         n = len(nums)
-        hashmap = {0: -1}
-        prefix_sum = 0
-        max_len = 0
-        
+        prefix=0
+        hash={0:-1}
+        count=0
+        max_length=0
         for i in range(len(nums)):
-            prefix_sum += nums[i]
+            prefix=prefix+nums[i]
+            target = prefix - k
+            if target in hash:
+                length = i - hash[target]
+                if length > max_length:
+                    max_length = length
+            if prefix not in hash:
+                hash[prefix] = i
+        return max_length
 
-            if prefix_sum - k in hashmap:
-                max_len = max(max_len,i-hashmap[prefix_sum-k])
-            if prefix_sum  not in hashmap:
-                hashmap[prefix_sum] = i
 
-        return max_len
+        
