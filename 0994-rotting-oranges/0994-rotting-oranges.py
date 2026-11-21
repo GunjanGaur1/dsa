@@ -1,32 +1,26 @@
 class Solution:
     def orangesRotting(self, grid: list[list[int]]) -> int:
-        rows = len(grid)
-        cols = len(grid[0])
-        t = 0
+        m = len(grid)
+        n = len(grid[0])
+
         queue = deque()
+        time=0
 
-        for i in range(rows):
-            for j in range(cols):
+        for i in range(m):
+            for j in range(n):
                 if grid[i][j]==2:
-                    queue.append((i,j,0)) 
+                    queue.append((i,j,time))
         while queue:
-            r,c,t = queue.popleft()
-
-            directions = [
-                (-1, 0),
-                (1, 0),
-                (0, -1),
-                (0, 1)
-            ]
-
-            for dr, dc in directions:
-                nr = r + dr
-                nc = c + dc
-                if 0<=nr<rows and 0<=nc<cols and grid[nr][nc]==1:
-                        grid[nr][nc]=2
-                        queue.append((nr,nc,t+1)) 
-        for i in range(rows):
-            for j in range(cols):
+            i, j, time = queue.popleft()
+            directions = [(1, 0),(-1, 0),(0, 1),(0, -1)]
+            for di, dj in directions:
+                ni = i + di
+                nj = j + dj
+                if 0 <= ni < m and 0 <= nj < n and grid[ni][nj]==1:
+                    grid[ni][nj] = 2
+                    queue.append((ni, nj, time+1))
+        for i in range(m):
+            for j in range(n):
                 if grid[i][j] == 1:
                     return -1
-        return t
+        return time
