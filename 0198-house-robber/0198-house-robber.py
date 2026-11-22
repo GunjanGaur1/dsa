@@ -10,4 +10,10 @@ class Solution:
         for i in range(2,n):
                 dp[i] = max(dp[i-2] + nums[i], dp[i-1])
 
-        return dp[n-1]
+        first =  dp[n-1]
+
+        for i in range(2, n):
+            dp[i] = max(dp[i-2] + nums[i], dp[i-1])
+        last = dp[n-1]
+
+        return max(first,last)
