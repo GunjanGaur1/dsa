@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/GunjanGaur1/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GunjanGaur1/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/GunjanGaur1/dsa/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/GunjanGaur1/dsa/tree/master/1046-last-stone-weight) |
 | [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
 | [1231-divide-chocolate](https://github.com/GunjanGaur1/dsa/tree/master/1231-divide-chocolate) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GunjanGaur1/dsa/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/GunjanGaur1/dsa/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GunjanGaur1/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/GunjanGaur1/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/GunjanGaur1/dsa/tree/master/0752-open-the-lock) |
 | [0993-cousins-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/GunjanGaur1/dsa/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GunjanGaur1/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/GunjanGaur1/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/GunjanGaur1/dsa/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/GunjanGaur1/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/GunjanGaur1/dsa/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GunjanGaur1/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/GunjanGaur1/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/GunjanGaur1/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GunjanGaur1/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/GunjanGaur1/dsa/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/GunjanGaur1/dsa/tree/master/1020-number-of-enclaves) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/GunjanGaur1/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Hash Function
 |  |
