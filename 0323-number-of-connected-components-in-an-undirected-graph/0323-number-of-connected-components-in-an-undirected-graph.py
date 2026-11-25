@@ -1,22 +1,29 @@
 class Solution:
     def countComponents(self, n: int, edges: list[list[int]]) -> int:
-        graph = [[0] * n for i in range(n)]
+        graph = []
+        visited = [False]*n
+        for i in range(n):
+            graph.append([])
         
         for u,v in edges:
-            graph[u][v]=1
-            graph[v][u]=1
-        visited = [False]*n
-        count = 0
+            graph[u].append(v)
+            graph[v].append(u)
+
+        print(graph)
 
         def dfs(node):
             visited[node]=True
-            for neighbor in range(n):
-                if graph[node][neighbor]==1 and not visited[neighbor]:
+            for neighbor in graph[node]:
+                if not visited[neighbor]:
                     dfs(neighbor)
+
+
+        count = 0
         for i in range(n):
-            if not visited[i]:
-                count=count+1
-            dfs(i)
+            if visited[i]==False:
+                count = count + 1 
+                dfs(i)
+
         return count
 
 
