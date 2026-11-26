@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-buildings-with-an-ocean-view](https://github.com/GunjanGaur1/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 | [1891-cutting-ribbons](https://github.com/GunjanGaur1/dsa/tree/master/1891-cutting-ribbons) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GunjanGaur1/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/GunjanGaur1/dsa/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/GunjanGaur1/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/GunjanGaur1/dsa/tree/master/2404-most-frequent-even-element) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/GunjanGaur1/dsa/tree/master/0767-reorganize-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/GunjanGaur1/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1099-two-sum-less-than-k](https://github.com/GunjanGaur1/dsa/tree/master/1099-two-sum-less-than-k) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/GunjanGaur1/dsa/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/GunjanGaur1/dsa/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GunjanGaur1/dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/GunjanGaur1/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
