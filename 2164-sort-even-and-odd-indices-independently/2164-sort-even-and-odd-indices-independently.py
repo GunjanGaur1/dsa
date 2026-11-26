@@ -7,8 +7,10 @@ class Solution:
         for i in range(n):
             if i%2!=0:
                 odd.append(nums[i])
+                print(odd)
             else:
                 even.append(nums[i])
+                print(even)
         
         even.sort()
         odd.sort(reverse=True)
