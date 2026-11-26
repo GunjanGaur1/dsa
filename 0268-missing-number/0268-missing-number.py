@@ -1,9 +1,12 @@
 class Solution:
     def missingNumber(self, nums: list[int]) -> int:
-        n = len(nums)+1
+        seen = set(nums)
+        n = len(nums)
+
         for i in range(n+1):
-           if i not in nums:
-            return i
+            if i not in seen:
+                return i
+
 
 
 
