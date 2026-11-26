@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/GunjanGaur1/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GunjanGaur1/dsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/GunjanGaur1/dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GunjanGaur1/dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GunjanGaur1/dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/GunjanGaur1/dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GunjanGaur1/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GunjanGaur1/dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GunjanGaur1/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/GunjanGaur1/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
 | [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/GunjanGaur1/dsa/tree/master/0283-move-zeroes) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/GunjanGaur1/dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GunjanGaur1/dsa/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/GunjanGaur1/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GunjanGaur1/dsa/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/GunjanGaur1/dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
