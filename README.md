@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GunjanGaur1/dsa/tree/master/0239-sliding-window-maximum) |
 | [0259-3sum-smaller](https://github.com/GunjanGaur1/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/GunjanGaur1/dsa/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/GunjanGaur1/dsa/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/GunjanGaur1/dsa/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/GunjanGaur1/dsa/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/GunjanGaur1/dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/GunjanGaur1/dsa/tree/master/0058-length-of-last-word) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/GunjanGaur1/dsa/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/GunjanGaur1/dsa/tree/master/0242-valid-anagram) |
+| [0269-alien-dictionary](https://github.com/GunjanGaur1/dsa/tree/master/0269-alien-dictionary) |
 | [0344-reverse-string](https://github.com/GunjanGaur1/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GunjanGaur1/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/GunjanGaur1/dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/GunjanGaur1/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0226-invert-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/GunjanGaur1/dsa/tree/master/0250-count-univalue-subtrees) |
+| [0269-alien-dictionary](https://github.com/GunjanGaur1/dsa/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GunjanGaur1/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0419-battleships-in-a-board](https://github.com/GunjanGaur1/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/GunjanGaur1/dsa/tree/master/0463-island-perimeter) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/GunjanGaur1/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GunjanGaur1/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/GunjanGaur1/dsa/tree/master/0226-invert-binary-tree) |
+| [0269-alien-dictionary](https://github.com/GunjanGaur1/dsa/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/GunjanGaur1/dsa/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GunjanGaur1/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0463-island-perimeter](https://github.com/GunjanGaur1/dsa/tree/master/0463-island-perimeter) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/GunjanGaur1/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GunjanGaur1/dsa/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/GunjanGaur1/dsa/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/GunjanGaur1/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/GunjanGaur1/dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/GunjanGaur1/dsa/tree/master/0785-is-graph-bipartite) |
@@ -642,11 +647,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/GunjanGaur1/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GunjanGaur1/dsa/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/GunjanGaur1/dsa/tree/master/0269-alien-dictionary) |
 | [0802-find-eventual-safe-states](https://github.com/GunjanGaur1/dsa/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/GunjanGaur1/dsa/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/GunjanGaur1/dsa/tree/master/0269-alien-dictionary) |
 ## Graph Coloring
 |  |
 | ------- |
