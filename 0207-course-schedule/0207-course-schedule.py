@@ -19,11 +19,15 @@ class Solution:
                 if not visited[neighbor]:
                     if isCycle(neighbor):
                         return True
+                    
                 elif pathv[neighbor]==1:
                     return True
+
             pathv[node] = 0
             return False
+            
 
+        
         for i in range(numCourses):
             if not visited[i]:
                 if isCycle(i):
