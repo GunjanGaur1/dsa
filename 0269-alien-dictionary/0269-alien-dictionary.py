@@ -18,9 +18,10 @@ class Solution:
                     adj[s1[j]].append(s2[j])
                     break
         print(adj)
+
         indegree = {}
         for ch in adj:
-            indegree[ch] = 0
+            indegree[ch]=0
 
         for ch in adj:
             for neighbor in adj[ch]:
@@ -31,18 +32,19 @@ class Solution:
         for ch in indegree:
             if indegree[ch] == 0:
                 queue.append(ch)
+
         topo=[]
+
         while queue:
             node = queue.popleft()
-            topo += node
+            topo.append(node)
             for neighbor in adj[node]:
-                indegree[neighbor] -= 1
-                if indegree[neighbor] == 0:
+                indegree[neighbor] = indegree[neighbor]-1
+                if indegree[neighbor]==0:
                     queue.append(neighbor)
-        if len(topo) != len(adj):
+        if len(topo)!=len(adj):
             return ""
-
         return "".join(topo)
+    
 
-
-        
+       
